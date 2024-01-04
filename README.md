@@ -15,3 +15,7 @@ pnpm start:dev
 ---
 
 Todo :
+
+- Auth Context Setup
+- Local Storage Setup.
+- Theme/colors setup.
