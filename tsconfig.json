@@ -23,7 +23,9 @@
     "paths": {
       "@shadcn/*": ["./src/ui/shadcn/*"],
       "@shadcnUtils/*": ["./src/ui/shadcn/utils/*"]
-    }
+    },
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
